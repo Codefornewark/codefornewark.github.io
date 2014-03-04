@@ -63,6 +63,7 @@
     .carousel {
       margin-bottom: 60px;
       background-image: url(./images/c4asmall.jpg);
+      background-position:left bottom; /* or 0% 100% */
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: cover;
